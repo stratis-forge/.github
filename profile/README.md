@@ -1,2 +1,5 @@
-# stratis-forge
-A collection of workflows for radiotherapy and image analysis
+# STRATIS-forge
+STRATIS is a collection of workflows for radiotherapy and image analysis. 
+
+## Citation
+Technical Note: STRATIS: A Cloud-enabled Software Toolbox for Radiotherapy and Imaging Analysis, Aditya P. Apte, Eve LoCastro, Aditi Iyer, Jue Jiang, Jung Hun Oh, Harini Veeraraghavan, Amita Shukla-Dave, Joseph O. Deasy, bioRxiv 2022.11.08.515686; doi: https://doi.org/10.1101/2022.11.08.515686
