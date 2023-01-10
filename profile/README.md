@@ -4,7 +4,7 @@ Software Toolbox for Radiotherapy and Image AnalysiS (STRATIS) is a collection o
 ## Getting Started
 Python packages and GNU Octave required for STRATIS workflows can be installed following instructions at https://github.com/stratis-forge/installation-and-dependencies </br>
 
-Notebooks in https://github.com/stratis-forge/cerr-data-handling demonstrate general CERR usage. Demo notebooks for radiomics, segmentation and XAT are under respective repositories.
+Notebooks in https://github.com/stratis-forge/cerr-data-handling demonstrate general CERR usage. Demo notebooks for radiomics, segmentation and XNAT are under respective repositories.
 
 
 ## Citation
